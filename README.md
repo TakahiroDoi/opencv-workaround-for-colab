@@ -14,5 +14,5 @@ Convenience method to use **cv2.imshow** with minimal code change on Google Cola
 1. Create an instance of the **Cv2Workaround** class as **cv** (cv = Cv2Workaround)
 2. Delete 2 from the original line: cv2.imshow(title, image) -> cv.imshow(title, image)
 
-# Exmple 
+# Example 
 https://colab.research.google.com/drive/1AJ3LfOK7ruuVj3EgR64WIgtTlMNQVb_8?usp=sharing
